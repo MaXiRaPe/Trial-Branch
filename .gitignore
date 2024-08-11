@@ -1,3 +1,8 @@
+# ignore large files
+WB_DATA_d950d0cd269a601150c0afd03b234ee2.csv
+WB_africadata.csv
+WB_africadata.xls
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
